@@ -1,0 +1,15 @@
+# 機密資訊 (絕對不能上傳，保護 API Key)
+.env
+
+# Python 快取與編譯檔
+__pycache__/
+*.pyc
+
+# 虛擬環境資料夾 (如果有使用的話)
+venv/
+.venv/
+env/
+
+# 作業系統自動生成的隱藏檔
+.DS_Store
+Thumbs.db
